@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/online-retail-dashboard/static/css/main.2cacf299.chunk.css",
-    "main.js": "/online-retail-dashboard/static/js/main.301618c6.chunk.js",
-    "main.js.map": "/online-retail-dashboard/static/js/main.301618c6.chunk.js.map",
-    "runtime~main.js": "/online-retail-dashboard/static/js/runtime~main.74afd1ab.js",
-    "runtime~main.js.map": "/online-retail-dashboard/static/js/runtime~main.74afd1ab.js.map",
-    "static/css/2.e1f8a440.chunk.css": "/online-retail-dashboard/static/css/2.e1f8a440.chunk.css",
-    "static/js/2.693752f4.chunk.js": "/online-retail-dashboard/static/js/2.693752f4.chunk.js",
-    "static/js/2.693752f4.chunk.js.map": "/online-retail-dashboard/static/js/2.693752f4.chunk.js.map",
-    "index.html": "/online-retail-dashboard/index.html",
-    "precache-manifest.cf6716b09b9d5ff65daebf14bedc6e9b.js": "/online-retail-dashboard/precache-manifest.cf6716b09b9d5ff65daebf14bedc6e9b.js",
-    "service-worker.js": "/online-retail-dashboard/service-worker.js",
-    "static/css/2.e1f8a440.chunk.css.map": "/online-retail-dashboard/static/css/2.e1f8a440.chunk.css.map",
-    "static/css/main.2cacf299.chunk.css.map": "/online-retail-dashboard/static/css/main.2cacf299.chunk.css.map",
-    "static/media/style.css": "/online-retail-dashboard/static/media/CircularStd-Medium.4fcdd97f.otf",
-    "static/media/all.css": "/online-retail-dashboard/static/media/fa-solid-900.d6d8d5da.woff2",
-    "static/media/user-img-placeholder.jpeg": "/online-retail-dashboard/static/media/user-img-placeholder.be2ed151.jpeg"
+    "main.css": "/react-dashboard-demo/static/css/main.8b72ed49.chunk.css",
+    "main.js": "/react-dashboard-demo/static/js/main.d20c184e.chunk.js",
+    "main.js.map": "/react-dashboard-demo/static/js/main.d20c184e.chunk.js.map",
+    "runtime~main.js": "/react-dashboard-demo/static/js/runtime~main.e8846a2b.js",
+    "runtime~main.js.map": "/react-dashboard-demo/static/js/runtime~main.e8846a2b.js.map",
+    "static/css/2.1f113664.chunk.css": "/react-dashboard-demo/static/css/2.1f113664.chunk.css",
+    "static/js/2.ce8b6b85.chunk.js": "/react-dashboard-demo/static/js/2.ce8b6b85.chunk.js",
+    "static/js/2.ce8b6b85.chunk.js.map": "/react-dashboard-demo/static/js/2.ce8b6b85.chunk.js.map",
+    "index.html": "/react-dashboard-demo/index.html",
+    "precache-manifest.5d89f754dd50f2213bda22e6ce4fad4f.js": "/react-dashboard-demo/precache-manifest.5d89f754dd50f2213bda22e6ce4fad4f.js",
+    "service-worker.js": "/react-dashboard-demo/service-worker.js",
+    "static/css/2.1f113664.chunk.css.map": "/react-dashboard-demo/static/css/2.1f113664.chunk.css.map",
+    "static/css/main.8b72ed49.chunk.css.map": "/react-dashboard-demo/static/css/main.8b72ed49.chunk.css.map",
+    "static/media/style.css": "/react-dashboard-demo/static/media/CircularStd-Medium.4fcdd97f.otf",
+    "static/media/all.css": "/react-dashboard-demo/static/media/fa-solid-900.d6d8d5da.woff2",
+    "static/media/user-img-placeholder.jpeg": "/react-dashboard-demo/static/media/user-img-placeholder.be2ed151.jpeg"
   }
 }
